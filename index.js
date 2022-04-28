@@ -1,0 +1,1 @@
+console.log("JavaScript practice 123");
